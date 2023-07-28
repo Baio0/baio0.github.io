@@ -6,7 +6,7 @@
     "email": "yikun.bai@vanderbilt.edu",
     "phone": "(302)244-8486",
     "url": "https://baio.github.io/",
-    "summary": "researcher in computational optimal transport",
+    "summary": "researcher in computational optimal transport, mathmatical machine learning",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -29,7 +29,7 @@
       "url": "https://engineering.vanderbilt.edu/cs/",
       "startDate": "2022-03-01",
       "endDate": "now",
-      "summary": "Research, funding Proposal",
+      "summary": "computational optimal transport, unbalanced OT, linear OT embedding, computer vision",
       "highlights": [
         "Relativity"
       ]
