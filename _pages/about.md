@@ -7,7 +7,7 @@ subtitle: Postdoc @ <a href='https://www.vanderbilt.edu'>Vandeerbilt University<
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true #false # crops the image to make it circular
+  image_circular: false #false # crops the image to make it circular
   address: >
     <p>Featheringill Hall 314</p>
     <p>Vanderbilt University</p>
