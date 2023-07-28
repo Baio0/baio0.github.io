@@ -95,8 +95,7 @@
 %   abbr={ITI},
 %   title={Information constrained optimal transport: From talagrand, to marton, to cover},
 %   author={Bai, Yikun and Wu, Xiugang and {\"O}zg{\"u}r, Ayfer},
-%   booktitle={
-% IEEE Transactions on Information Theory},
+%   booktitle={IEEE Transactions on Information Theory},
 %   pages={2210--2215},
 %   year={2021},
 %   organization={IEEE}
