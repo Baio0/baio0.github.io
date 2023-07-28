@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoc @ <a href='https://www.vanderbilt.edu'>Vandeerbilt University</a>. Nashville, TN, U.S.
 
 profile:
   align: right
