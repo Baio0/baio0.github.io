@@ -6,7 +6,7 @@
     "email": "yikun.bai@vanderbilt.edu",
     "phone": "(302)244-8486",
     "url": "https://baio.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "researcher in computational optimal transport",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -46,7 +46,7 @@
       "endDate": "2022-01-01",
       "GPA": "4.0",
       "courses": [
-        "Signal processing", "inforamtion theory", "machine learning"
+        "signal processing", "inforamtion theory", "machine learning"
       ]
     },
     {
@@ -65,8 +65,8 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
+      "title": "SEAM travel grant",
+      "date": "2023",
       "awarder": "Royal Swedish Academy of Sciences",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
