@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  references for optimal transport 
+title:  recommanded mathmatical references 
 date:   2023-07-28 16:40:16
 description: references
 tags: Optimal_transport
@@ -11,25 +11,26 @@ featured: true
 ## Basics in Math
 ### Probability theory
 - [**Probability theory and examples**](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf)
-  The Bible in probability theory. It introduces the essential definition of probability by the language of measure theory. From this book, you would have an understanding about some foundamental concepts in probability theory, e.g. random variable, sample space, stocastic process, martingale, expectation, Law of large number, central limit theorem, Gaussian process, Markov process, etc. 
+   Renowned as the 'Bible' of probability theory, this book offers a comprehensive understanding of basic probability concepts, using measure theory language. It encompasses various fundamental concepts such as random variables, sample space, stochastic processes, martingales, expectation, the Law of Large Numbers, Central Limit Theorem, Gaussian processes, Markov processes, and more.
 
 
 - [**High dimensional probability theory**](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html) 
-  In the field of learning theory (generative cabability, sample complexity, statistical convergence rate, etc), this book is almost a must-have for everyone. It introduces many basic inequalities in probability theory, e.g. Markov inequality, Chebysheve Inequality, Gaussian Concentration Inequality, etc, and related concepts, e.g. Sub-Gaussian distribution, log-concave distribution.  
+  This book is an invaluable asset in learning theory, particularly covering aspects like generative capability, sample complexity, statistical convergence rate, etc. It presents many elementary inequalities in probability theory, such as Markov inequality, Chebyshev's Inequality, Gaussian Concentration Inequality, and concepts like Sub-Gaussian distribution, log-concave distribution.
+
+
   
 
 ### Information theory
 - [**Element of information theory**](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)
-  This book is a classical introduction reference in field of information theory. It introduces many basic information concepts, e.g. Entropy, mutual information, KL-divergence, etc and their interpretation in information theory. For ML reseacher, it is good to know these interpretations.  
+  This classic reference book in the field of information theory explains essential concepts like entropy, mutual information, KL-divergence, etc., and their interpretations in information theory. It's a valuable resource for machine learning researchers.
 
 - [**Concentration of Measure Inequalities in Information Theory, Communications and Coding (Second Edition)**](https://arxiv.org/abs/1212.4663) 
-  It is an easy to read Monograph. It introduces many basic measure concentration inequalities, optimal transportation inequalities and information inequalities and their relations, e.g. the famous Talagrand inequaliy, HWI inequalities, logarithmic Sobolev inequalities, etc. 
-
+  An easily digestible monograph, it details basic measure concentration inequalities, optimal transportation inequalities, information inequalities and their relations, including famous inequalities such as Talagrand's inequality, HWI inequalities, logarithmic Sobolev inequalities.
 
 ### Functional analysis 
 - [**Functional Analysis (Math 920) Lecture Notes**](https://users.math.msu.edu/users/schenke6/920/920notes.pdf)
 - [**Lecture Notes on Functional Analysis: With Applications to Linear Partial Differential Equation**](https://bookstore.ams.org/gsm-143)
-  An easy to read lecture note. It introduces many foundamental inequalities, that is widely used in probability theory, measure concentration and informaiton theory (e.g. Minkovski inequlity). It also introduces many basic concepts in optimization, e.g. dual space, Riesz representation theorem, weak topology (weak convergence etc.). 
+  These lecture notes offer an easy-to-follow introduction to functional analysis. They cover foundational inequalities widely used in probability theory, measure concentration, and information theory, such as the Minkowski inequality. The notes also introduce key concepts in optimization, like dual space, the Riesz representation theorem, and weak topology (weak convergence and so on).
 
 
 
