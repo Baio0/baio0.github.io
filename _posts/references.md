@@ -5,6 +5,7 @@ date:   2023-07-28 16:40:16
 description: references
 tags: Optimal_transport
 categories: sample-posts
+featured: true
 ---
 
 
