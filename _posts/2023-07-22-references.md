@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  Textbooks for optimal transport 
+title:  references for optimal transport 
 date:   2023-07-28 16:40:16
 description: references
 tags: Optimal_transport
 categories: sample-posts
 featured: true
 ---
+
+<!-- ---
+layout: post
+title: a post with code
+date: 2015-07-15 15:09:00
+description: an example of a blog post with some code
+tags: formatting code
+categories: sample-posts
+featured: false #true
+--- -->
 
 
 ## Mathmetical foundation 
