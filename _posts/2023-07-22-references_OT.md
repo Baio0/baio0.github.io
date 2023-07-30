@@ -7,6 +7,7 @@ tags: Optimal_transport,machine_learning
 categories: sample-posts
 featured: true
 giscus_comments: true
+related_posts: false
 ---
 
 ### Basic introduction  
