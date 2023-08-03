@@ -29,9 +29,9 @@
       "url": "https://engineering.vanderbilt.edu/cs/",
       "startDate": "2022-03-01",
       "endDate": "now",
-      "summary": "computational optimal transport, unbalanced OT, linear OT embedding, computer vision",
+      "summary": "computational optimal transport, unbalanced OT, linear OT embedding, computer vision, machine learning"
       "highlights": [
-        "Relativity"
+        // "computational optimal transport", "unbalanced OT", "linear OT embedding", "computer vision", "machine learning"
       ]
     }
   ],
