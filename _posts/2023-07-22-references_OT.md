@@ -12,10 +12,10 @@ related_posts: false
 
 ### Basic introduction  
 - [**Introduction to optimal transport**](https://www.damtp.cam.ac.uk/research/cia/files/teaching/Optimal_Transport_Notes.pdf). 
-  Penned by Dr. [Mathew Thorpe](https://www.matthewthorpe.co.uk), these lecture notes are an accessible introduction to optimal transport theory. They cover fundamental concepts such as the Kantorovich theorem, the existence of the solution to the Optimal Transport problem, and the Boniner theorem. This material is highly suitable for beginners in this field.
+  Penned by Dr. [Mathew Thorpe](https://www.matthewthorpe.co.uk), this lecture note is an accessible introduction to optimal transport theory. It covers fundamental concepts such as the Kantorovich theorem, the existence of the solution to the Optimal Transport problem, and the Boniner theorem. This material is highly suitable for beginners in this field.
 
 - [**An Invitation to Optimal Transport, Wasserstein Distances, and Gradient Flows**](https://ems.press/books/etb/190) 
-  This monograph by Dr. Alessio Figalli (https://people.math.ethz.ch/~afigalli/) delves into various significant and engaging concepts in Optimal Transport theory, including the Wasserstein geodesic, the Riemannian structure of the Wasserstein space, and the Wasserstein Gradient flow.
+  This monograph by Dr. [Alessio Figalli](https://people.math.ethz.ch/~afigalli/) delves into various significant and engaging concepts in Optimal Transport theory, including the Wasserstein geodesic, the Riemannian structure of the Wasserstein space, and the Wasserstein Gradient flow.
 
 
 ### Transportation inequality 
@@ -28,8 +28,8 @@ related_posts: false
 
 
 ### Monographs in OT theory 
-[**https://arxiv.org/abs/1009.3856**](https://arxiv.org/abs/1009.3856) 
-[**Topics in optimal transportation**](https://bookstore.ams.org/gsm-58)
-[**optimal transport: old and new**](https://link.springer.com/book/10.1007/978-3-540-71050-9)
+[**Introduction to Optimal Transport Theory**](https://arxiv.org/abs/1009.3856), 
+[**Topics in optimal transportation**](https://bookstore.ams.org/gsm-58), 
+[**optimal transport: old and new**](https://link.springer.com/book/10.1007/978-3-540-71050-9),
 These three textbooks encompass most of the classical theoretical concepts in optimal transport theory such as the Kantorovich Duality theorem, Brenier theorem, weak-topology in Wasserstein space, transportation inequality, etc. It's advisable to have some background in differential geometry and continuity equations before delving into the advanced content of these books. They offer an exciting exploration of various topics and open problems in classical Optimal Transport theory.
 
