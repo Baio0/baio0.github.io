@@ -3,7 +3,7 @@ layout: post
 title:  references for introduction of optimal transport
 date:   2023-07-28 16:40:16
 description: references
-tags: Optimal_transport,machine_learning
+tags: OT ML math
 categories: sample-posts
 featured: true
 giscus_comments: true

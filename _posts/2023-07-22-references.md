@@ -3,7 +3,7 @@ layout: post
 title:  recommanded mathmatical references 
 date:   2023-07-28 16:40:16
 description: references
-tags: math, probability, machine_learning
+tags: math ML 
 categories: sample-posts
 featured: true
 giscus_comments: true
