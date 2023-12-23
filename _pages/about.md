@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc @ <a href='https://www.vanderbilt.edu'>Vandeerbilt University</a>. Nashville, TN, U.S.
+subtitle: Postdoc @ <a href='https://www.vanderbilt.edu'>Vanderbilt University</a>. Nashville, TN, U.S.
 
 profile:
   align: right
@@ -19,4 +19,4 @@ selected_papers: false #true # includes a list of papers marked as "selected={tr
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral research assistant at the Machine Intelligence and Neural Technologies (MINT) Lab at Vanderbilt University, Nashville, TN, advised by [Soheil Kolouri](https://engineering.vanderbilt.edu/bio/soheil-kolouri). I obtained my Ph.D. degree in the Electrical and Computer Engineering Department, University of Delaware, in 2022. Before that, I received my M.Sc. degree in Mathematics from Marshall University, Huntington, West Virginia, in 2016, and my B.Sc. degree in Medical Imaging from Mudanjiang Medical University, China, in 2012. My research interests include comoutational optimal transport, and its potential applications in computer vision, statistics, transformation learning, etc.
+I am a postdoctoral research assistant at Vanderbilt University's Machine Intelligence and Neural Technologies (MINT) Lab, under the guidance of Dr. Soheil Kolouri. I earned my Ph.D. in Electrical and Computer Engineering from the University of Delaware in 2022. Prior to this, I completed my M.Sc. in Mathematics at Marshall University in West Virginia in 2016, and my B.Sc. in Medical Imaging at Mudanjiang Medical University, China, in 2012. My research focuses on computational optimal transport and its applications in fields like computer vision, statistics, and machine learning.
