@@ -1,0 +1,7 @@
+Subject line describing the changes
+
+- More detailed explanatory text, if necessary
+- Bullet points are okay, too
+
+# Comments to yourself or reminders can go here
+# These lines won't be included in your commit message
