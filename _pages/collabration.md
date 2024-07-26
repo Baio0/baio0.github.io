@@ -12,9 +12,7 @@ description:
 
 
 - [Dr. Mathew Thorpe](https://www.matthewthorpe.co.uk/) 
-
 - [Dr. Bernhard Schmitzer](https://ot.cs.uni-goettingen.de/schmitzer.html)
-
 - [Dr. Hengrong Du](https://hengrongdu.netlify.app/)
 - [Dr. Rocio Diaz Martin](https://scholar.google.com/citations?user=7RHakmMAAAAJ&hl=es)
 - [Dr. Ivan Medri](https://postdoc.virginia.edu/postdoc-directory/ivan-medri)
