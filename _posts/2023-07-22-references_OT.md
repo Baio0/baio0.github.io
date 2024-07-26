@@ -2,9 +2,9 @@
 layout: post
 title:  references for introduction of optimal transport
 date:   2023-07-28 16:40:16
-description: references
+description: reference
 tags: OT ML math
-categories: sample-posts
+categories: Reference
 featured: False
 giscus_comments: true
 related_posts: false
