@@ -9,5 +9,5 @@ nav_order: 5
 
 
 # Mathematical foundation
-- [Metric space](https://www.overleaf.com/read/tzhgpsfqckrt#a832a0)
+- [Metric space](../notes/test.md)
 - [Linear space]()
