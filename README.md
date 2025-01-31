@@ -440,7 +440,7 @@ If you have a different question, please ask using [Discussions](https://github.
 ### Publications
 
 Your publications' page is generated automatically from your BibTex bibliography.
-Simply edit `_bibliography/papers.bib`.
+Simply edit `_bibliography/refs.bib`.
 You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
 
 <p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/publications-screenshot.png" width=800></p>
